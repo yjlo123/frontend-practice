@@ -17,7 +17,7 @@ password VARCHAR(100), \
 email VARCHAR(50))');
 
 db.exec('INSERT INTO user (name, password, email) VALUES \
-("yjlo123", "328626285", "liusiwei.yjlo@gmail.com")');
+("user1", "pass1", "123@abc.com")');
 
 var dbUtil = {
 	getAllUser: function(start, limit){

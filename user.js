@@ -1,5 +1,5 @@
 
-dbUtil.addUser({name:"jianghao", password:"jianghao123", email:"jianghao@gmail.com"});
+dbUtil.addUser({name:"user2", password:"pass2", email:"user2@gmail.com"});
 
 
 for(var i = 0; i < 2; i++){
